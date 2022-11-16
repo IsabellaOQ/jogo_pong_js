@@ -12,6 +12,7 @@ Primeiro código em JavaScript desenvolvendo o jogo Pong, acompanhando o curso "
 Link do jogo online: <br>
 https://editor.p5js.org/belica410/full/tPJHHkxsl
 
+<br>
 Dicas de jogabilidade: <br>
 Raquete 1 - Setas para cima e para baixo <br>
 Raquete 2 - Teclas "W" e "S" <br>
