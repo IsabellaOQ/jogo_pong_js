@@ -10,7 +10,7 @@ Primeiro código em JavaScript desenvolvendo o jogo Pong, acompanhando o curso "
   
 <br>
 Link do jogo online: <br>
-https://editor.p5js.org/belica410/full/tPJHHkxsl
+https://editor.p5js.org/belica410/full/tPJHHkxsl (clique na tela do jogo que abrir)
 
 <br> <br>
 Dicas de jogabilidade: <br>
