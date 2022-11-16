@@ -8,6 +8,7 @@ Primeiro código em JavaScript desenvolvendo o jogo Pong, acompanhando o curso "
   ✔ Aprenda a trabalhar com variáveis e funções <br>
   ✔ Crie um jogo completo, com animações, controles, sons e placar <br>
   
+<br>
 Link do jogo online: <br>
 https://editor.p5js.org/belica410/full/tPJHHkxsl
 
